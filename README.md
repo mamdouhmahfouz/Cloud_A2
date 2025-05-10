@@ -12,6 +12,8 @@ All components were configured through the AWS Console, without using any Infras
 ---
 
 ##  Architecture Overview
+![image](https://github.com/user-attachments/assets/38ab152b-f23f-4030-b5cf-fb0d83292bfd)
+
 
 **Workflow:**
 
