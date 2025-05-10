@@ -1,8 +1,7 @@
 # AWS Event-Driven Order Processing System
 
-**Author:** Mamdouh Hazem  
-**ID:** 10001816  
-**Section:** T|20  
+
+
 
 ##  Project Summary
 
